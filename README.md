@@ -58,7 +58,7 @@ I'm a **Data Engineer** with a Master's in Business Analytics specializing in **
 
 ## ✨ Quote of the Day
 > "Data is the new oil, and the real wealth lies in refining it into insights."  
-> — Vamsi Kandari
+> — Vamsi Kanderi
 
 ---
 
