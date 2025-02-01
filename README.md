@@ -1,4 +1,4 @@
-# Hi there, I'm Vamsi Kandari 👋
+# Hi there, I'm Vamsi Kanderi 👋
 
 I'm a **Data Engineer** with a Master's in Business Analytics specializing in **Applied Machine Learning**. I'm passionate about building robust data pipelines and turning complex data into actionable insights. Let's connect and transform data into impactful stories!
 
